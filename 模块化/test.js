@@ -11,3 +11,5 @@ module.exports={
     1:1,
     2:"hh"
 }
+exports={1:2}
+// exports.username="2"

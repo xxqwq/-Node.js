@@ -1,0 +1,8 @@
+{
+    "name":"date-html_tools",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "进行时间格式化以及html的转义与还原的小工具",
+    "keywords": ["dateFormat","htmlEscape"],
+    "license": "ISC"
+}
